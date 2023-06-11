@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Lenovo\source\repos\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
